@@ -119,7 +119,7 @@ Examples of questions answered in SQL:
 
 ## EDA Highlights
 
-Charts and tables are in `notebooks/02_eda.ipynb` and `reports/eda_report.pdf`.
+Charts and tables are in `notebooks/02_eda.ipynb`.
 
 - **Order outcomes.** 55.6% of orders are delivered on time, 10.5% late, 22.3% cancelled and 11.5% marked food not delivered.
 - **Delivery time.** The average stays between about 37 and 41 minutes in every hour of the day, with no clear peak. Traffic shows no clear effect, and heavy rain adds about 1.8 minutes.
